@@ -14,7 +14,7 @@ This is a layer for OpenEmbedded to support the Openvario hardware
 ### Fetching sources
 
 ```
-git clone --recurse-submodules https://github.com/Openvario/meta-openvario.git
+git clone --recurse-submodules https://github.com/tb59427/meta-openvario-TB.git
 cd meta-openvario
 ```
 

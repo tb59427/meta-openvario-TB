@@ -2,7 +2,7 @@
 
 # meta-openvario
 
-This is a layer for OpenEmbedded to support the Openvario hardware. This is a modified version (which eventually will be merged back in to the proper Openvario repo): it contains a fix to run the Cubieboard CPU at a minimum auf 1.1V volts. The core linux source lowers this voltage to 1V for the lowermost CPU frequencies. This seems to create hw instability on Openvario's cubiboard2. With 1.1V this instability seems to disappear.
+This is a layer for OpenEmbedded to support the Openvario hardware. This is a modified version (which eventually will be merged back in to the proper Openvario repo): it contains a fix to run the Cubieboard CPU at a minimum auf 1.1V volts. The core linux source lowers this voltage to 1V for the lowermost CPU frequencies. This seems to create hw instability on Openvario's cubieboard2. With 1.1V this instability seems to disappear.
 
 ## How to build an image
 
